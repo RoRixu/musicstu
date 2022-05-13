@@ -106,7 +106,6 @@ class Button(commands.Cog):
             if current_guild.voice_client is None:
                 return
             if current_guild.voice_client.is_playing():
-                print("should pause")
                 current_guild.voice_client.pause()
                 return
             else:

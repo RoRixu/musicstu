@@ -1,6 +1,7 @@
-BOT_TOKEN: str = "token"
-SPOTIFY_ID: str = "spotify id"
-SPOTIFY_SECRET: str = "spotify secret"
+BOT_TOKEN: str = "OTYzOTIxNDQ0NjUwMjUwMjUw.YldHzQ.xERUmSE1YNQAnIhhUMNEChoi9nU"
+SPOTIFY_ID: str = "b96a42be14cb4d7f92c2fc2c2c2bf95a"
+SPOTIFY_SECRET: str = "1e463afddf2d4075b5452d175a95c8bb"
+APP_ID = 963921444650250250
 
 BOT_PREFIX = "$"
 
